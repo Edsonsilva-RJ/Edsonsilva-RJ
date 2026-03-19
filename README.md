@@ -13,3 +13,21 @@ Sou um profissional em transição de carreira com mais de 10 anos de experiênc
 - ⚡ Curiosidade: Sou o primeiro da minha família a ingressar no ensino superior.
 
 - 📍 Localização: Rio de Janeiro, Brasil.
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=Edsonsilva-RJ&show_icons=true&theme=vue-dark&locale=pt-br" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonsilva-RJ&layout=compact&theme=vue-dark&locale=pt-br" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="195" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Edsonsilva-RJ&theme=vue-dark&locale=pt-br" />
+  </a>
+</p>
