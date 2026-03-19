@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner do Edson Silva" width="90%">
+  <img src="banner.png" alt="Banner do Edson Silva" width="100%">
 </p>
 
 # 🚀 Olá, eu sou o Edson!
