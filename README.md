@@ -15,6 +15,10 @@ Sou um profissional em transição de carreira com mais de 10 anos de experiênc
 - 📍 Localização: Rio de Janeiro, Brasil.
 
 
+## 📊 GitHub status
+
+
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=Edsonsilva-RJ&show_icons=true&theme=vue-dark&locale=pt-br" />
